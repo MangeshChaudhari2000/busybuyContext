@@ -7,12 +7,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCTqRgd4jbEX4uzhvJf29hoQDqlii2v6pQ",
-  authDomain: "bussybuy2.firebaseapp.com",
-  projectId: "bussybuy2",
-  storageBucket: "bussybuy2.appspot.com",
-  messagingSenderId: "930879432659",
-  appId: "1:930879432659:web:94b0891302e42d0c1e7126"
+apiKey: "AIzaSyC3enABYatrFts0CEEMsavQ-OmWGSetbWQ",
+  authDomain: "busybuycontext.firebaseapp.com",
+  projectId: "busybuycontext",
+  storageBucket: "busybuycontext.firebasestorage.app",
+  messagingSenderId: "926292468783",
+  appId: "1:926292468783:web:c7cb00381ea8e91de392da"
 };
 const provider = new GoogleAuthProvider();
 
